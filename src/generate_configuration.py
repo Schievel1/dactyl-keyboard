@@ -328,7 +328,7 @@ shape_config = {
     # connector options are
     # 'RJ9_USB_WALL' = Standard internal plate with RJ9 opening and square cutout for connection.
     # 'USB_WALL' = Standard internal plate with a square cutout for connection, no RJ9.
-    # 'USB-C-WALL' = Simple hole for usb-c connector.
+    # 'USB_C_WALL' = Simple hole for usb-c connector.
     # 'RJ9_USB_TEENSY' = Teensy holder
     # 'USB_TEENSY' = Teensy holder, no RJ9
     # 'EXTERNAL' = square cutout for a holder such as the one from lolligagger.
